@@ -3,6 +3,9 @@
 // Hello World, by Eduardo Corpeño 
 // reminder on how to code and in C++
 
+/* This program is created to print the Hi there message
+in C++.*/
+
 #include <iostream>
 
 int main (){
