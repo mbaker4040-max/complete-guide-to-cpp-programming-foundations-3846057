@@ -30,9 +30,6 @@ double CalculateTotalCost(std::vector<Resource> resources){
     
     return result;
 }
-    
-    return result;
-}
 
 int main(){
     
