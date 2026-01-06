@@ -20,7 +20,7 @@ int main(){
     if (action != 'a' && action != 'w' && action != 'd' && action != 's' &&
         action != 'A' && action != 'W' && action != 'D' && action != 'S')
         std::cout << "not ";
-    std::cout << "a mvoment key." << std::endl;
+    std::cout << "a movoment key." << std::endl;
 
     if (gamePaused)
         std::cout << "The game is paused!" << std::endl;
